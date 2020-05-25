@@ -6,7 +6,13 @@
 
 1. flutter的UI框架的思想具有创新性，此时可以和native的原理进行比较，flutter的Widget->element->renderobject原理，具有创新性。而android的ui，是xml生成View tree，view tree的绘制、以及操作讲解一下。最后总结，flutter的ui采用了声明式编程和响应式编程的方式，android的view是偏向于命令式，一般会采用MVP和MVVM的方式来和view进行交互。
 2. flutter的开发效率的提升，从热重载和热重启上对flutter和native进行比较。
-3. 讲一下它的缺点，不要讲它不稳定。要讲一下它的状态管理机制不够成熟不统一，和原生界面不能来回跳转。这些都要讲一下它的原理。
+3. flutter中的dart语言，使用async,await等技术实现异步编程和任务依赖，有点协程的味道，而android只有kotlin才做了协程的支持。
+4. 讲一下它的缺点，不要讲它不稳定。要讲一下它的状态管理机制不够成熟不统一，和原生界面不能来回跳转。这些都要讲一下它的原理。
+
+
+同步功能的讲解，可以考虑讲一下http三次握手、四次挥手。
+
+
 
 
 
