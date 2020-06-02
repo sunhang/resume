@@ -16,12 +16,13 @@
 ---
 
 # 技能清单																					
-1. 具有熟练的android开发经验；
-2. 熟悉android framework的部分机制;	
-3. 掌握基本的算法和计算机基础知识;
-4. 掌握flutter开发技能;
-5. 了解linux内核的基本原理;
-6. 熟练使用多种编程语言kotlin、python、dart等；
+1. 10年android开发经验，熟悉输入法UI机制，java异步编程
+2. 熟练使用多种编程语言kotlin、dart、python等；
+3. 掌握flutter开发技能，熟悉async、await，了解widget机制;
+4. 熟悉android framework的binder机制、绘制方式;	
+5. 熟悉基本的链表和树的算法和计算机体系结构;
+6. 熟悉C/C++的指针操作、容器使用，了解编译链接原理；
+7. 了解linux内核段页管理、中断、进程切换;
 
 ---
 
